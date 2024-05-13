@@ -1,3 +1,3 @@
 # Landing Page
 
-Official Website of Fitpedia https://fitpedia.github.io/website/
+Official Website of Fitpedia https://fitpediaofficial.github.io/website/
